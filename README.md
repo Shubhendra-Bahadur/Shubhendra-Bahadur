@@ -1,5 +1,5 @@
 ### Hi there 👋,I'm Shubhendra,A programmer with strong motivation and Leadership skills.
-[Profile views](https://gpvc.arturio.dev/Shubhendra-Bahadur)
+![Profile views](https://gpvc.arturio.dev/Shubhendra-Bahadur)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Full Stack web devlopment
